@@ -1,0 +1,524 @@
+Uri: https://connect.facebook.net/zh_TW/sdk.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\zh_TW\sdk.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Roboto:wght@300;400&display=swap
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css2-1
+Content Type: text/css
+
+Uri: https://polyfill.io/v3/polyfill.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://www.diamondbiofund.com/css/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679374
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679378
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style-1.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679379
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style-2.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679380
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style-3.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679381
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style-4.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/css/style.css?ver=1703679382
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\css\style-5.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.diamondbiofund.com/images/all/Chrome.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\all\Chrome.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/images/all/firefox.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\all\firefox.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/images/all/footer-logo-mb.svg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\all\footer-logo-mb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.diamondbiofund.com/images/all/logo.svg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\all\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.diamondbiofund.com/images/all/Microsoft_Edge.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\all\Microsoft_Edge.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/images/banner/p1.jpg?202200707
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\banner\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/images/banner/p2.jpg?202200707
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\banner\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/images/default/default_fb.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\default\default_fb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/images/history/history02.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\history\history02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/images/history/history03.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\history\history03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/images/index/dima.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\images\index\dima.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/js/bootstrap/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/bootstrap/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/lightbox/lightbox.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\lightbox\lightbox.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/lightbox/lightbox.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\lightbox\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/lozad.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\lozad.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/owlcarousel/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\owlcarousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/owlcarousel/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\owlcarousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/script.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/slick/slick.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/swiper/swiper-file.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\swiper\swiper-file.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/js/wow/animate.css
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\wow\animate.css
+Content Type: text/css
+
+Uri: https://www.diamondbiofund.com/js/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\js\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.diamondbiofund.com/tc/about_detail10.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail10.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail12.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail12.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail3.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail3.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail4.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail4.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail5.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail5.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail6.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail6.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/about_detail7.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\about_detail7.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/career_detail2.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\career_detail2.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/career_detail3.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\career_detail3.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/career_detail4.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\career_detail4.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/career_detail5.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\career_detail5.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/contact.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\contact.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/esg_detail.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\esg_detail.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/esg_detail1.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\esg_detail1.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/esg_detail14.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\esg_detail14.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/esg_detail17.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\esg_detail17.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/esg_detail9.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\esg_detail9.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/index.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\index.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment1.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment1.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment11.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment11.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment14.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment14.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment15.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment15.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment16.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment16.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment2.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment2.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment3.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment3.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment4.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment4.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment5.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment5.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment6.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment6.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment7.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment7.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment8.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment8.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investment9.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investment9.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investor5_13_0_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investor5_13_0_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investor_contact.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investor_contact.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investor_detail37_0_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investor_detail37_0_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/investor_detail51_0_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\investor_detail51_0_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news1_0_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news1_0_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news2_0_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news2_0_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail140_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail140_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail14_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail14_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail17_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail17_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail19_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail19_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail20_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail20_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail21_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail21_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail23_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail23_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail24_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail24_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail258_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail258_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail259_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail259_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail25_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail25_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail260_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail260_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail261_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail261_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail262_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail262_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail28_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail28_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail29_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail29_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail30_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail30_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail311_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail311_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail312_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail312_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail354_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail354_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail35_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail35_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail376_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail376_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail377_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail377_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail37_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail37_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/tc/news_detail68_0.htm
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\tc\news_detail68_0.htm
+Content Type: text/html
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062115314601.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062115314601.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062115372601.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062115372601.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062115381201.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062115381201.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116072801.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116072801.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116075501.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116075501.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116082101.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116082101.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116083301.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116083301.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116090401.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116090401.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202206/investment_2022062116103001.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202206\investment_2022062116103001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202207/dbad_2022071917194601.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202207\dbad_2022071917194601.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202207/dbad_2022072211201401.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202207\dbad_2022072211201401.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202208/investment_2022081813540901.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202208\investment_2022081813540901.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/202309/investment_2023091819403401.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202309\investment_2023091819403401.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/202310/dbad_2023101814163802.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202310\dbad_2023101814163802.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202310/dbad_2023101814485402.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202310\dbad_2023101814485402.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202310/investment_2023101709595101.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202310\investment_2023101709595101.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/202310/investment_2023101710120501.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202310\investment_2023101710120501.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202312/dbad_2023122011412501.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202312\dbad_2023122011412501.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/202312/dbad_2023122011413102.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\202312\dbad_2023122011413102.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/吳策略長.jpg
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\吳策略長.jpg
+Content Type: image/jpeg
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/李副董.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\李副董.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/組織1225-CN.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\組織1225-CN.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/路先生.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\路先生.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/鄭總.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\鄭總.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/黃副總.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\黃副總.png
+Content Type: image/png
+
+Uri: https://www.diamondbiofund.com/Upload/images/About/Differentfunds-cn.png
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\Upload\images\About\Differentfunds-cn.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4XZ35B483E
+File Name: C:\Downloaded Web Sites\www.diamondbiofund.com\gtag\js
+Content Type: application/javascript
+
